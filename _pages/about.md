@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://lsa.umich.edu/rll/people/graduate-students/antoalva.html'>University of Michigan</a>. Romance Languages and Literatures, Ph.D. student.
+subtitle: <a href='https://lsa.umich.edu/rll/people/graduate-students/antoalva.html'>University of Michigan</a>. Romance Languages and Literatures. Spanish Ph.D. student.
 
 profile:
   align: right
