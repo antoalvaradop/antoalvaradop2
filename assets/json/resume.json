@@ -5,31 +5,17 @@
     "image": "",
     "email": "antoalva@umich.edu",
     "url": "https://antoalvaradop.github.io/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+    "summary": "I’m a PhD student at the University of Michigan’s Romance Languages and Literatures Department. My research focuses on illness and disability in Latin American literature and culture.",
     },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
-  },
   "work": [
     {
       "name": "Romance Languages and Literatures, University of Michigan",
-      "position": "Ph.D. student",
+      "position": "Graduate Student Instructor",
       "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "startDate": "2024-08-01",
+      "endDate": "",
+      "summary": "",
+      "highlights": [""]
     }
   ],
   "volunteer": [
