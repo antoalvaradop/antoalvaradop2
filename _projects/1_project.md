@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 1
+title: marxism lab
 description: with background image
 img: assets/img/12.jpg
 importance: 1
@@ -16,8 +16,8 @@ To give your project a background in the portfolio page, just add the img tag to
 
     ---
     layout: page
-    title: project
-    description: a project with a background image
+    title: marxism lab - 
+    description: The Marxism Lab is a collaborative research lab at the University of Michigan were members form research clusters on specific topics within the Marxist Tradition.
     img: /assets/img/12.jpg
     ---
 
