@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Antonia Alvarado Puchulu
     - name: Date of Birth
-      value: 14th March 1879
+      value: December 21st 1992
     - name: Languages
-      value: English, German
+      value: English, Spanish, Italian
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD student
+      institution: University of Michigan, Ann Arbor, USA
+      year: 2023-present
       description:
         - Description 1.
         - Description 2.
@@ -21,9 +21,21 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: M.A. in Spanish
+      institution: University of Oklahoma, Norman, USA
+      year: 2021-2023
+      description:
+        - Description 1.
+        - Description 2.
+    - title: B.A. in Education
+      institution: Universidad del Desarrollo, Santiago, Chile
+      year: 2018-2019
+      description:
+        - Description 1.
+        - Description 2.
+    - title: B.A. in World Literature
+      institution: Universidad de los Andes, Santiago, Chile
+      year: 2014-2017
       description:
         - Description 1.
         - Description 2.
@@ -31,9 +43,9 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Graduate Student Instructor, Spanish
+      institution: University of Michigan
+      year: 2024-present
       description:
         - Description 1.
         - Description 2.
@@ -41,25 +53,12 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+    - title: Graduate Teaching Assistant
+      institution: University of Oklahoma
+      year: 2021-2023
       description:
         - Description 1.
         - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
 
 - title: Open Source Projects
   type: time_table
@@ -73,11 +72,11 @@
   contents:
     - year: 1921
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
+        - 
+        - 
     - year: 2029
       items:
-        - Max Planck Medal
+        - 
 
 - title: Academic Interests
   type: nested_list
